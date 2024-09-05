@@ -1,3 +1,3 @@
 # Machine-Learning
 
-Berisi Tugas Praktium Machine Learning
+Berisi Tugas Praktikum Machine Learning
