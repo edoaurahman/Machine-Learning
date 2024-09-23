@@ -8,3 +8,4 @@ Berisi Tugas Praktikum Pembelajaran Mesin
 
 1. <a href="pertemuan_02">Pertemuan 2</a>
 2. <a href="pertemuan_03">Pertemuan 3</a>
+2. <a href="pertemuan_04">Pertemuan 4</a>
